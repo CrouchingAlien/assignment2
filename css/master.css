@@ -160,7 +160,7 @@ img{
 
 .hoverdiv:hover + .hide {
   display: block;
-  color: red;
+  color: black;
   float: right;
   padding-bottom: 20px;
 }

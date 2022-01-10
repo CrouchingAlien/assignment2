@@ -7,6 +7,10 @@ body{
 
 
 }
+body title2{
+  font-size: 20px;
+  text-align: center;
+}
 header{
   background-color: #CFCBCA;
 }

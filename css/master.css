@@ -19,7 +19,7 @@ footer{
 
 nav{
   border: 1px solid black;
-border-radius: 1px;
+  border-radius: 1px;
     background-color: #CFCBCA;
   text-align: center;
   font-size: 16px;
@@ -38,7 +38,7 @@ nav li{
 
 
 
-}
+
 
 ul {
     list-style-type: none;
@@ -159,4 +159,10 @@ img{
   color: red;
   float: right;
   padding-bottom: 20px;
+}
+
+.ittech {
+padding: 35px;
+float: left;
+
 }

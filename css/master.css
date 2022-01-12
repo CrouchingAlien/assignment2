@@ -11,6 +11,10 @@ body title2{
   font-size: 20px;
   text-align: center;
 }
+body p{
+  padding-left: 40px;
+  padding-right: 40px;
+}
 header{
   background-color: #CFCBCA;
 }

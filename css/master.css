@@ -11,9 +11,12 @@ body title2{
   font-size: 20px;
   text-align: center;
 }
+
 body p{
+  margin: 25px 50px;
   padding-left: 40px;
   padding-right: 40px;
+
 }
 header{
   background-color: #CFCBCA;
@@ -111,15 +114,21 @@ border-radius: 2px;
 }
 
 .container5 img{
-  width: 120px;
-  height: 120px;
   border-radius: 50%;
+  height: 120px;
+
+
+
 }
 
 .container5{
   padding-bottom: 400px;
   background-color: #A8A09F
 
+}
+.container6{
+  text-align: center;
+  margin: 40px 40px;
 }
 
 
@@ -132,9 +141,7 @@ border-radius: 2px;
   padding: 50px;
 }
 
-button:hover, a:hover {
-  opacity: 0.7;
-}
+
 
 
 .profile{
@@ -258,4 +265,20 @@ img{
 padding: 35px;
 float: left;
 
+}
+table {
+  margin: 25px 50px;
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
 }

@@ -57,7 +57,7 @@
 
         <div class="profile2">
           <a href="">
-          <img src="./img/jarrod.png" alt="" style="width:100%">
+          <img src="./img/jarrod.png" alt="" style="width:75%">
           </a>
           <h1>Jarrod</h1>
           <p class="title">Team Member</p>

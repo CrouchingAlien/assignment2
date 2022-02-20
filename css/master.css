@@ -12,12 +12,7 @@ body title2{
   text-align: center;
 }
 
-body p{
-  margin: 25px 50px;
-  padding-left: 40px;
-  padding-right: 40px;
 
-}
 header{
   background-color: #CFCBCA;
 }
@@ -67,7 +62,7 @@ ul {
     text-align: center;
 
 
-    justify-content: space-around;
+
 }
 li a {
   text-decoration: none;
